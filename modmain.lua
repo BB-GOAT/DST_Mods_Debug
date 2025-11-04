@@ -146,19 +146,19 @@ addlist_debug(758532836,"Global Pause","这是一个过时的Mod\n建议您前�
 addlist_debug(632082897,"Global Player Icons","这是一个过时的Mod，功能已经失效了\n建议您前往创意工坊取消订阅")
 
 -- Extra Equip Slots
-addlist_debug(375850593,"Extra Equip Slots","这是一个过时的Mod 且含有诸多BUG\n强烈建议您备份存档后尝试换个版本",3040893393)
+addlist_debug(375850593,"Extra Equip Slots","这是一个过时的Mod 且含有诸多BUG\n强烈建议您备份存档后尝试换个版本",3574405615)
 
 -- Extra Equip Slots (Updated)
-addlist_debug(1818688368,"Extra Equip Slots (Updated)","这是一个过时的Mod 且含有诸多BUG\n建议您备份存档后尝试换个版本",3040893393)
+addlist_debug(1818688368,"Extra Equip Slots (Updated)","这是一个过时的Mod 且含有诸多BUG\n建议您备份存档后尝试换个版本",3574405615)
 
 -- DST 四格装备栏
-addlist_debug(1819567085,"DST 四格装备栏","这是一个过时的Mod 含有诸多BUG\n建议您备份存档后尝试换个版本",3040893393)
+addlist_debug(1819567085,"DST 四格装备栏","这是一个过时的Mod 含有诸多BUG\n建议您备份存档后尝试换个版本",3574405615)
 
 -- 五格装备栏（幽冥汉化版）
-addlist_debug(2373346252,"五格装备栏（幽冥汉化版）","这是一个过时的Mod 含有诸多BUG\n建议您备份存档后尝试换个版本",3040893393)
+addlist_debug(2373346252,"五格装备栏（幽冥汉化版）","这是一个过时的Mod 含有诸多BUG\n建议您备份存档后尝试换个版本",3574405615)
 
 --额外物品装备栏&UI优化
-addlist_debug(1405120786,"额外物品装备栏&UI优化","这是一个过时的Mod 含有诸多BUG\n建议您备份存档后尝试换个版本",3040893393)
+addlist_debug(1405120786,"额外物品装备栏&UI优化","这是一个过时的Mod 含有诸多BUG\n建议您备份存档后尝试换个版本",3574405615)
 
 if not IsmodDownLoad(3481258227) then -- 45格修复(但不确定修复后还有没有其它BUG)
     -- 45 Inventory Slots 这是原版
