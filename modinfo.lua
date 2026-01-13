@@ -5,7 +5,6 @@ description =
 "检测你的MOD列表，告诉你哪些MOD是过时的/有BUG的，并为你推荐它的替代品。"
 author = "冰冰羊"
 
-
 api_version = 10
 priority = 10
 
