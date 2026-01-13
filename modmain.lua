@@ -326,16 +326,19 @@ addlist_debug(3034588489,"几何布局 - 汉化版","你订阅了非官方版的
 addlist_debug(3467304228,"几何布局服务器版","你订阅了非官方版的几何布局！可能会导致兼容性问题发生\n建议取消订阅，切换为官方版\n并搭配Chinese++ Pro来获取最完整的中文汉化",351325790)
 
 -- [DST]Too Many Items
-addlist_debug(551338671,"[DST]Too Many Items","这是一个过时的MOD 含有诸多问题\n建议您前往创意工坊取消订阅并换成最新版",2896126381)
+addlist_debug(551338671,"[DST]Too Many Items","这是一个过时的MOD 含有诸多问题\n建议您前往创意工坊取消订阅并换成最新版",3638290455)
 
 -- Too Many Items Fix (really old, don't use)
-addlist_debug(881455419,"Too Many Items Fix (really old, don't use)","这是一个过时的MOD 含有诸多问题 连作者都叫你别用！\n请您前往创意工坊取消订阅并换成最新版",2896126381)
+addlist_debug(881455419,"Too Many Items Fix (really old, don't use)","这是一个过时的MOD 含有诸多问题 连作者都叫你别用！\n请您前往创意工坊取消订阅并换成最新版",3638290455)
 
 -- [TMIP]Too Many Items Plus
-addlist_debug(1365141672,"[TMIP]Too Many Items Plus","这是一个过时的MOD\n建议您前往创意工坊取消订阅并换成最新版",2896126381)
+addlist_debug(1365141672,"[TMIP]Too Many Items Plus","这是一个过时的MOD\n建议您前往创意工坊取消订阅并换成最新版",3638290455)
 
 -- T键物品增加
-addlist_debug(2763963752,"T键物品增加","这是Too Many Items Plus模组的补充包\n建议您前往创意工坊取消订阅此模组还有T键Plus并换成最新版T键",2896126381)
+addlist_debug(2763963752,"T键物品增加","这是Too Many Items Plus模组的补充包\n建议您前往创意工坊取消订阅此模组还有T键Plus并换成最新版T键",3638290455)
+
+-- Too Many Items Revisited
+addlist_debug(2896126381,"Too Many Items Revisited","这个模组目前已停止更新，建议换成更新的\nToo Many Items Rearranged",3638290455)
 
 if IsmodDownLoad(1467214795) then
     -- 暖石无限耐久与岛屿冒险同时订阅
