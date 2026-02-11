@@ -416,6 +416,8 @@ addlist_debug(2805318787,"无视服务器Mod过期","此模组会使客户端无
 -- 无视服务器Mod过期 by.萌萌的新
 addlist_debug(3025319554,"无视服务器Mod过期","此模组会使客户端无视服务器Mod下载状态并强行加入服务器\n这容易导致严重的BUG发生！强烈建议您取消订阅并查看正确的解决方法","https://www.bilibili.com/opus/954763232708395009")
 
+-- 主从不同步修复
+addlist_debug(3423266707, "主客不同步修复", "此模组仅仅只是屏蔽了错误，并不能修复不同步问题，换句话说就是错上加错\n建议您取消订阅并自行检查到底是什么mod导致不同步的")
 
 -- Automatic chest sorting
 addlist_debug(2321974509,"Automatic chest sorting","这是一个有BUG的Mod\n建议您前往创意工坊取消订阅并换成更新的版本",3223103565)
@@ -472,29 +474,31 @@ local function addlist_custom_debug(check_fn, title, desc, text1, cb1, text2, cb
     end
 end
 
-local function next_custom_debug()
-    return
-    function()
-        TheFrontEnd:PopScreen()
-        custom_num = custom_num + 1
-        if custom_num <= #custom_list then
-            show_custom_debug(custom_list[custom_num][1],custom_list[custom_num][2],custom_list[custom_num][3],custom_list[custom_num][4])
-        end
-    end
-end
+-- 暂时用不到的函数
+-- local function next_custom_debug()
+--     return
+--     function()
+--         TheFrontEnd:PopScreen()
+--         custom_num = custom_num + 1
+--         if custom_num <= #custom_list then
+--             show_custom_debug(custom_list[custom_num][1],custom_list[custom_num][2],custom_list[custom_num][3],custom_list[custom_num][4])
+--         end
+--     end
+-- end
 
-addlist_custom_debug(
-    function()
-        return not IsmodDownLoad(3377689002)
-    end,
-    "你没有订阅【自动崩溃恢复 & 错误追踪分析】模组","这个模组能实时分析检测导致游戏崩溃的模组！建议订阅\n(这叫什么？这叫打组合拳󰀃)",
-    "去创意工坊订阅",
-    function()
-        VisitURL("https://steamcommunity.com/sharedfiles/filedetails/?id=3377689002")
-    end,
-    "下一个！",
-    next_custom_debug()
-)
+-- 略微影响服务器性能 且 可能自身出问题/吞日志（日志就一句 简简单单的 error in error handle） 故取消推荐
+-- addlist_custom_debug(
+--     function()
+--         return not IsmodDownLoad(3377689002)
+--     end,
+--     "你没有订阅【自动崩溃恢复 & 错误追踪分析】模组","这个模组能实时分析检测导致游戏崩溃的模组！建议订阅\n(这叫什么？这叫打组合拳󰀃)",
+--     "去创意工坊订阅",
+--     function()
+--         VisitURL("https://steamcommunity.com/sharedfiles/filedetails/?id=3377689002")
+--     end,
+--     "下一个！",
+--     next_custom_debug()
+-- )
 
 addlist_custom_debug(
     function()
