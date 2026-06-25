@@ -1,6 +1,6 @@
 ---@diagnostic disable: lowercase-global
 name = "MOD检测报告器"
-version = "2026.3.1"
+version = "2026.6.25"
 description =
 "检测你的MOD列表，告诉你哪些MOD是过时的/有BUG的，并为你推荐它的替代品。\n更新日志请前往创意工坊查看"
 author = "冰冰羊"

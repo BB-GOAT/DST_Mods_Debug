@@ -327,6 +327,9 @@ addlist_debug(3034588489,"几何布局 - 汉化版","你订阅了非官方版的
 -- 几何布局服务器版
 addlist_debug(3467304228,"几何布局服务器版","你订阅了非官方版的几何布局！可能会导致兼容性问题发生\n建议取消订阅，切换为官方版\n并搭配Chinese++ Pro来获取最完整的中文汉化",351325790)
 
+--几何布局汉化Geometric Placement
+addlist_debug(3678114053,"Geometric Placement 几何放置","你订阅了非官方版的几何布局！可能会导致兼容性问题发生\n建议取消订阅，切换为官方版\n并搭配Chinese++ Pro来获取最完整的中文汉化",351325790)
+
 -- [DST]Too Many Items
 addlist_debug(551338671,"[DST]Too Many Items","这是一个过时的Mod 含有诸多问题\n建议您前往创意工坊取消订阅并换成最新版",3638290455)
 
@@ -509,6 +512,13 @@ addlist_custom_debug(
     "帮我订阅并关闭【Mod检测报告器】",
     function()
         TheSim:SubscribeToMod("workshop-2941527805")
+        TheSim:SubscribeToMod("workshop-3750536829")
+        KnownModIndex:Disable(modname)
+        KnownModIndex:Save()
+        TheFrontEnd:PopScreen()
+    end,
+    "跳过",
+    function()
         KnownModIndex:Disable(modname)
         KnownModIndex:Save()
         TheFrontEnd:PopScreen()
