@@ -192,20 +192,20 @@ addlist_debug(347079953,"Display Food Values","这是一个过时的Mod 含有�
 
 
 -- [T] Map Plugins(DST)
-addlist_debug(668708075,"Map Plugins(DST)","这是一个过时的Mod 含有诸多BUG\n建议您前往创意工坊取消订阅",2923713671)
+addlist_debug(668708075,"Map Plugins(DST)","这是一个过时的Mod 含有诸多BUG\n建议您前往创意工坊取消订阅")
 
 -- Extended Map Icons
-addlist_debug(1157975551,"Extended Map Icons","这是一个过时的Mod 含有诸多BUG\n建议您前往创意工坊取消订阅",2923713671)
+addlist_debug(1157975551,"Extended Map Icons","这是一个过时的Mod 含有诸多BUG\n建议您前往创意工坊取消订阅")
 
 -- Wall Map Icons
-addlist_debug(449537190,"Wall Map Icons","这是一个过时的Mod 含有诸多BUG\n建议您前往创意工坊取消订阅",2923713671)
+addlist_debug(449537190,"Wall Map Icons","这是一个过时的Mod 含有诸多BUG\n建议您前往创意工坊取消订阅")
 
 
 -- DST Where's My Beefalo?
-addlist_debug(347360448,"DST Where's My Beefalo?","这是一个过时的Mod 含有诸多BUG\n建议您前往创意工坊取消订阅",2923713671)
+addlist_debug(347360448,"DST Where's My Beefalo?","这是一个过时的Mod 含有诸多BUG\n建议您前往创意工坊取消订阅")
 
 -- Where's My Beefalo?
-addlist_debug(2565578363,"Where's My Beefalo?","这是一个过时的Mod 含有诸多BUG\n建议您前往创意工坊取消订阅",2923713671)
+addlist_debug(2565578363,"Where's My Beefalo?","这是一个过时的Mod 含有诸多BUG\n建议您前往创意工坊取消订阅")
 
 
 -- Wormhole icons
@@ -264,23 +264,23 @@ addlist_debug(2078243581,"Display Attack Range","这是一个有BUG的Mod 碰到
 
 
 -- Item Info 这是原版
-addlist_debug(836583293,"Item Info","这是一个过时的Mod 在特定情况会导致游戏崩溃\n建议您前往创意工坊取消订阅并换成最新版",3118627881)
+addlist_debug(836583293,"Item Info","这是一个过时的Mod 在特定情况会导致游戏崩溃\n建议您前往创意工坊取消订阅")
 
 -- Item Info
-addlist_debug(1901927445,"Item Info","这是一个过时的Mod 在特定情况会导致游戏崩溃\n建议您前往创意工坊取消订阅并换成最新版",3118627881)
+addlist_debug(1901927445,"Item Info","这是一个过时的Mod 在特定情况会导致游戏崩溃\n建议您前往创意工坊取消订阅")
 
 -- item info 物品信息 - Shang 汉化版
-addlist_debug(2049203096,"item info 物品信息 - Shang 汉化版","这是一个过时的Mod 在特定情况会导致游戏崩溃\n建议您前往创意工坊取消订阅并换成最新版",3118627881)
+addlist_debug(2049203096,"item info 物品信息 - Shang 汉化版","这是一个过时的Mod 在特定情况会导致游戏崩溃\n建议您前往创意工坊取消订阅")
 
 -- Item Info Improved
-addlist_debug(2972499450,"Item Info Improved","这是一个过时的Mod 在特定情况会导致游戏崩溃\n建议您前往创意工坊取消订阅并换成最新版",3118627881)
+addlist_debug(2972499450,"Item Info Improved","这是一个过时的Mod 在特定情况会导致游戏崩溃\n建议您前往创意工坊取消订阅")
 
 -- 小地图HUD模组汉化丨Minimap HUD CN
 addlist_debug(3415567277,"小地图HUD","这不是官方原版的小地图Mod，建议您前往创意工坊切换为官方版本\n并搭配Chinese++ Pro来获取最完整的中文汉化\nTips:官方版本与其它Mod的兼容性更好",345692228)
 
 
 -- 组合状态[最新/中文]-Combined Status
-addlist_debug(2438350724,"组合状态[最新/中文]-Combined Status","这不是官方原版的组合状态，兼容性较差。墙裂建议您前往创意工坊切换为官方版本\n并搭配Chinese++ Pro来获取最完整的中文汉化\nTips:官方版本与其它Mod的兼容性更好",376333686)
+addlist_debug(2438350724,"组合状态[最新/中文]-Combined Status","这不是官方原版的组合状态，且已停止维护，且兼容性较差。请前往创意工坊切换为官方版本",376333686)
 
 -- Combined Status (Modified) server version
 addlist_debug(1896968971,"Combined Status (Modified) server version","你订阅了非官方版的综合状态显示！且是老旧版本！\n请您务必前往创意工坊订阅官方版本！\n并搭配Chinese++ Pro来获取最完整的中文汉化",376333686)
