@@ -263,8 +263,8 @@ addlist_debug(831523966,"999堆叠","这个模组已经停止更新维护，现�
 addlist_debug(2078243581,"Display Attack Range","这是一个有BUG的Mod 碰到某些生物会导致服务器崩溃\n建议您前往创意工坊取消订阅")
 
 
--- Item Info 这是原版
-addlist_debug(836583293,"Item Info","这是一个过时的Mod 在特定情况会导致游戏崩溃\n建议您前往创意工坊取消订阅")
+-- Item Info 这是原版 最后更新时间：2026年 8 月 24 日 上午 11:06
+-- addlist_debug(836583293,"Item Info","")
 
 -- Item Info
 addlist_debug(1901927445,"Item Info","这是一个过时的Mod 在特定情况会导致游戏崩溃\n建议您前往创意工坊取消订阅")
@@ -461,6 +461,15 @@ addlist_debug(907007729,"Deluxe Cooking Pot","这个模组已经停止更新维�
 
 -- Keeth客户端
 addlist_debug(2111490085,"Keeth客户端","这个模组已经停止更新维护，现在开启这个模组容易使你的游戏崩溃")
+
+-- Chinese Plus
+addlist_debug(572538624,"Chinese Plus","这个模组已停止维护 且功能已失效\n建议你稍后订阅Chinese Plus Pro模组替代它")
+
+-- Chinese++
+addlist_debug(1418746242,"Chinese++","这个模组已停止维护 且功能已失效，还会导致其它模组的部分配置可能不能正确显示\n建议你稍后订阅Chinese++ Pro模组替代它")
+
+-- Chinese++ (优化版)
+addlist_debug(2532301630,"Chinese++","这个模组已停止维护 且功能已失效，还会导致其它模组的部分配置可能不能正确显示\n建议你稍后订阅Chinese++ Pro模组替代它")
 
 ---@param check_fn function
 ---@param title string
